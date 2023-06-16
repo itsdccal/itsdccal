@@ -17,7 +17,7 @@
 <h3 align="left">and here is my stats</h3>
 <p align="center">
   <img src="https://www.codewars.com/users/itsdccal/badges/large"/><br /><br />
-  <img src="https://github-readme-stats.vercel.app/api?username=itsdccal&show_icons=true&include_all_commits=true&theme=monokai" alt="itsdccal's GitHub stats" /><br />
+  <img src="https://github-readme-stats.vercel.app/api?username=itsdccal&show_icons=true&locale=en&theme=monokai" alt="itsdccal's GitHub stats" /><br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsdccal&theme=monokai"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsdccal&layout=compact&theme=monokai&langs_count=12"/><br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=itsdccal&show_icons=true&locale=en&layout=compact&theme=monokai&langs_count=12"/><br />
 </p>
